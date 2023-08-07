@@ -64,16 +64,14 @@ Now that your environment is set up, you can start contributing to LangTest. Her
     ```
 5. **Push your changes**: Push the changes to your forked repository.
     ```bash 
-    git push origin feature-name
+    git push origin your-branch-name
     ```
 
 6. **Create a pull request**: Go to the LangTest repository on GitHub and navigate to the "Pull Requests" tab. Click on "New Pull Request" and follow the instructions to create a new pull request from your branch to the main repository.
 
-7. **Description**: Provide a clear and concise description of the changes you've made in the pull request description. Use the format: Fixes # (issue) - Brief description of the changes.
+7. **Pull Request Template**: When creating the pull request, you will see a template with specific sections. Thoroughly explain your changes and their purpose, and select the appropriate type of change (bug fix, new feature, breaking change, or documentation update). Fill in the checklist according to your changes, and if applicable, provide any relevant screenshots.
 
 ## Where to go from here?
-
-Congrats! You just completed the standard _fork -> clone -> edit -> pull request_ workflow that you'll often encounter as a contributor!
 
 Our team will review your pull request, provide feedback, and work with you to ensure that your contribution meets the project's guidelines and quality standards.
 
