@@ -7,10 +7,8 @@ We welcome contributions from the community to help us achieve our mission of ma
 1. Visit our [Issue Tracker](https://github.com/YourUsername/LangTest/issues) to find a list of open issues.
 2. Look for issues that align with your skills and interests. Feel free to ask for clarification or more information on any issue.
 
-<img align="right" width="300" src="https://github.com/RakshitKhajuria/first-contributions/assets/71117423/be22d54d-5b62-4a23-b213-0268ed195021" alt="fork this repository" />
-
 ## Step 2: Contribution Process
-
+<img align="right" width="300" src="https://github.com/RakshitKhajuria/first-contributions/assets/71117423/be22d54d-5b62-4a23-b213-0268ed195021" alt="fork this repository" />
 ## Fork this repository
 
 Fork this repository by clicking on the fork button on the top of this page.
