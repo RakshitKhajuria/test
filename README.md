@@ -11,6 +11,7 @@ We welcome contributions from the community to help us achieve our mission of ma
 
 1. Fork the LangTest repository to your GitHub account. <img align="right" width="300" src="https://github.com/RakshitKhajuria/first-contributions/assets/71117423/be22d54d-5b62-4a23-b213-0268ed195021" alt="fork this repository" />
 
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
 2. Clone the forked repository to your local machine using the following command:
 
