@@ -8,7 +8,7 @@ To start contributing to LangTest, follow these steps:
 
 1. **Finding an Issue**
 
-   - Visit our [Issue Tracker](https://github.com/JohnSnowLabs/langtest.git/issues) to find a list of open issues.
+   - Visit our [Issue Tracker](https://github.com/JohnSnowLabs/langtest/issues) to find a list of open issues.
    - Look for issues that align with your skills and interests. Feel free to ask for clarification or more information on any issue.
 
 2. **Fork the Repository**: Click on the "Fork" button on the top-right corner of the [LangTest GitHub repository](https://github.com/JohnSnowLabs/langtest.git) to create a copy of the repository in your GitHub account.
@@ -75,9 +75,11 @@ Now that your environment is set up, you can start contributing to LangTest. Her
 
 Our team will review your pull request, provide feedback, and work with you to ensure that your contribution meets the project's guidelines and quality standards.
 
-### Additional Resources
-- LangTest GitHub Repository: https://github.com/your-username/langtest
-- Official LangTest Website: https://langtest.org
+## Community Support
+
+- [Slack](https://www.johnsnowlabs.com/slack-redirect/) For live discussion with the LangTest community, join the `#langtest` channel
+- [GitHub](https://github.com/JohnSnowLabs/langtest/tree/main) For bug reports, feature requests, and contributions
+- [Discussions](https://github.com/JohnSnowLabs/langtest/discussions) To engage with other community members, share ideas, and show off how you use LangTest!
 
 If you have any questions or need further assistance, don't hesitate to reach out to us on GitHub or via our official communication channels.
 
