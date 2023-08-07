@@ -35,50 +35,37 @@ where "url you just copied" (without the quotation marks) is the url to this rep
 For example:
 
 ```
-git clone git@github.com:this-is-you/first-contributions.git
+git clone https://github.com/username/langtest.git
 ```
 
-where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository on GitHub to your computer.
+where `username` is your GitHub username.
 
 ### Create a branch
 
 Change to the repository directory on your computer (if you are not already there):
 
 ```
-cd first-contributions
+cd langtest
 ```
 
-Now create a branch using the `git switch` command:
+Now create a branch using the `git checkout -b` command:
 
 ```
-git switch -c your-new-branch-name
+git checkout -b your-branch-name
 ```
 
-For example:
-
-```
-git switch -c add-alonzo-church
-```
-### Make necessary changes and commit those changes
-
-Now open `Contributors.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
-
-<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
-
-If you go to the project directory and execute the command `git status`, you'll see there are changes.
+### Make necessary changes and commit those changes 
 
 Add those changes to the branch you just created using the `git add` command:
 
 ```
-git add Contributors.md
+git add .
 ```
 Now commit those changes using the `git commit` command:
 
 ```
-git commit -m "Add your-name to Contributors list"
+git commit -m "Add feature XYZ" 
 ```
-
-replacing `your-name` with your name.
 
 ### Push changes to GitHub
 
@@ -89,3 +76,25 @@ git push -u origin your-branch-name
 ```
 
 replacing `your-branch-name` with the name of the branch you created earlier.
+
+
+
+## Submit your changes for review
+
+If you go to your repository on GitHub, you'll see a `Compare & pull request` button. Click on that button.
+
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+
+Now submit the pull request.
+
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+
+Soon I'll be merging all your changes into the main branch of this project. You will get a notification email once the changes have been merged.
+
+## Where to go from here?
+
+Congrats! You just completed the standard _fork -> clone -> edit -> pull request_ workflow that you'll often encounter as a contributor!
+
+Celebrate your contribution and share it with your friends and followers by going to [web app](https://firstcontributions.github.io/#social-share).
+
+You could join our slack team if you need any help or have any questions. [Join slack team](https://join.slack.com/t/firstcontributors/shared_invite/zt-1n4y7xnk0-DnLVTaN6U9xLU79H5Hi62w).
