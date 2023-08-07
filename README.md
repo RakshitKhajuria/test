@@ -8,13 +8,15 @@ We welcome contributions from the community to help us achieve our mission of ma
 2. Look for issues that align with your skills and interests. Feel free to ask for clarification or more information on any issue.
 
 ## Step 2: Contribution Process
+
 <img align="right" width="300" src="https://github.com/RakshitKhajuria/first-contributions/assets/71117423/be22d54d-5b62-4a23-b213-0268ed195021" alt="fork this repository" />
-## Fork this repository
+
+### Fork this repository
 
 Fork this repository by clicking on the fork button on the top of this page.
 This will create a copy of this repository in your account.
 
-## Clone the repository
+### Clone the repository
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
@@ -38,7 +40,7 @@ git clone git@github.com:this-is-you/first-contributions.git
 
 where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository on GitHub to your computer.
 
-## Create a branch
+### Create a branch
 
 Change to the repository directory on your computer (if you are not already there):
 
@@ -57,7 +59,7 @@ For example:
 ```
 git switch -c add-alonzo-church
 ```
-## Make necessary changes and commit those changes
+### Make necessary changes and commit those changes
 
 Now open `Contributors.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
 
@@ -78,7 +80,7 @@ git commit -m "Add your-name to Contributors list"
 
 replacing `your-name` with your name.
 
-## Push changes to GitHub
+### Push changes to GitHub
 
 Push your changes using the command `git push`:
 
