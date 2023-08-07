@@ -11,7 +11,7 @@ We welcome contributions from the community to help us achieve our mission of ma
 
 ## Step 2: Contribution Process
 
-1. Fork the LangTest repository to your GitHub account. 
+### Fork the LangTest repository to your GitHub account. 
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
