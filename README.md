@@ -54,6 +54,22 @@ Now create a branch using the `git checkout -b` command:
 git checkout -b your-branch-name
 ```
 
+### Install Poetry
+
+Poetry is the package manager used for this project. If you don't have Poetry installed, run the following command:
+
+   ```bash
+   pip install poetry
+   ```
+
+### Install Dependencies
+
+Use Poetry to install the project dependencies:
+
+   ```bash
+   poetry install --with dev
+   ```
+   
 ### Make necessary changes and commit those changes 
 
 Add those changes to the branch you just created using the `git add` command:
