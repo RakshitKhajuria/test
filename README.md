@@ -94,7 +94,18 @@ Create a pull request (PR) from your forked repository to the main LangTest repo
 
 <img style="float: right;" src="https://github.com/RakshitKhajuria/test/assets/71117423/5c629508-53a7-4444-b036-15f694df675c" alt="submit pull request" />
 
-Soon I'll be merging all your changes into the main branch of this project. You will get a notification email once the changes have been merged.
+Soon we'll be merging all your changes into the main branch of this project. You will get a notification email once the changes have been merged.
+
+## Step 3: Proposing a New Issue
+
+1. If you have an idea for a new feature, improvement, or bug fix, you can propose a new issue.
+2. Go to the [Issue Tracker](https://github.com/JohnSnowLabs/langtest/issues) and click on "New Issue" or just create a new issue from [here](https://github.com/JohnSnowLabs/langtest/issues/new) 
+3. Choose the appropriate issue lables (feature, fix, bug, etc.).
+4. Provide a clear and concise title and description of the proposed issue.
+5. Add labels and assignees, if applicable, to help categorize and track the issue.
+
+We're excited to have you on board with us! Together, we can make NLP models safer, more reliable, and fairer for everyone. 
+**Happy contributing!** 💫
 
 ## Where to go from here?
 
