@@ -8,7 +8,7 @@ Thank you for your interest in contributing to LangTest! We value the contributi
 Browse through our list of open issues on the [Issues tab](https://github.com/YourUsername/LangTest/issues). These issues cover a wide range of topics and difficulties. You might find something that aligns with your skills and interests.
 
 2. **Filter and Search:**
-Use the provided labels and filters to narrow down the list of issues. You can filter by tags like "feature," "bug," "fix," etc. Also, utilize the GitHub search bar to look for keywords related to your expertise.
+Use the provided labels and filters to narrow down the list of issues. You can filter by tags like `feature`, `bug`, `fix`, etc. Also, utilize the GitHub search bar to look for keywords related to your expertise.
 
 3. **Read and Understand:**
 Once you've found an issue that captures your attention, take a moment to thoroughly read and understand it. Make sure you comprehend the problem, the expected solution, and any existing discussion around it.
