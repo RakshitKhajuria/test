@@ -4,8 +4,23 @@ Thank you for your interest in contributing to LangTest! We value the contributi
 
 ## Step 1: Finding an Issue
 
-1. Visit our [Issue Tracker](https://github.com/YourUsername/LangTest/issues) to find a list of open issues.
-2. Look for issues that align with your skills and interests. Feel free to ask for clarification or more information on any issue.
+1. **Explore Our Issues:**
+Browse through our list of open issues on the [Issues tab](https://github.com/YourUsername/LangTest/issues). These issues cover a wide range of topics and difficulties. You might find something that aligns with your skills and interests.
+
+**Filter and Search:**
+Use the provided labels and filters to narrow down the list of issues. You can filter by tags like "beginner-friendly," "bug," "enhancement," etc. Also, utilize the GitHub search bar to look for keywords related to your expertise.
+
+**Read and Understand:**
+Once you've found an issue that captures your attention, take a moment to thoroughly read and understand it. Make sure you comprehend the problem, the expected solution, and any existing discussion around it.
+
+**Clarify Doubts:**
+If you have any questions or need further clarification, don't hesitate to comment on the issue. Our community is friendly and always willing to help. It's better to seek clarity before diving in.
+
+**Claim the Issue:**
+If you feel confident about tackling the issue, leave a comment expressing your intention to work on it. This prevents duplication of efforts and allows us to provide guidance if needed.
+
+**Understand Contribution Guidelines:**
+Familiarize yourself with our [Contribution Guidelines](https://github.com/JohnSnowLabs/langtest/wiki). This document outlines coding standards, pull request procedures, and other important details.
 
 ## Step 2: Contribution Process
 
