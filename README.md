@@ -110,7 +110,7 @@ Create a pull request (PR) from your forked repository to the main LangTest repo
 
 <img style="float: right;" src="https://github.com/RakshitKhajuria/test/assets/71117423/5c629508-53a7-4444-b036-15f694df675c" alt="submit pull request" />
 
-Soon we'll be merging all your changes into the main branch of this project. You will get a notification email once the changes have been merged.
+Our team will review your pull request, provide feedback, and work with you to ensure that your contribution meets the project's guidelines and quality standards
 
 ## Step 3: Proposing a New Issue
 
@@ -122,7 +122,7 @@ Soon we'll be merging all your changes into the main branch of this project. You
 
 We're excited to have you on board with us! Together, we can make NLP models safer, more reliable, and fairer for everyone. 
 
-**Happy contributing!** 💫
+### **Happy contributing!** 💫
 
 ## Where to go from here?
 
