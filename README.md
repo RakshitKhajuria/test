@@ -77,7 +77,7 @@ Add those changes to the branch you just created using the `git add` command:
 ```
 git add .
 ```
-Now commit those changes using the `git commit` command:
+Now commit those changes using the `git commit` command with a meaningful message:
 
 ```
 git commit -m "Add feature: feature-name" 
