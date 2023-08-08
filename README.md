@@ -69,7 +69,9 @@ Now create a branch using the `git checkout -b` command:
 git checkout -b your-branch-name
 ```
 
-4. ### Install Poetry
+4. **Set Up Environment**: Create a virtual environment for LangTest using your preferred method. For example, you can use `venv` or `conda`.
+
+5. ### Install Poetry
 
 Poetry is the package manager used for this project. If you don't have Poetry installed, run the following command:
 
@@ -77,7 +79,7 @@ Poetry is the package manager used for this project. If you don't have Poetry in
    pip install poetry
    ```
 
-5. ### Install Dependencies
+6. ### Install Dependencies
 
 Use Poetry to install the project dependencies:
 
@@ -85,7 +87,7 @@ Use Poetry to install the project dependencies:
    poetry install --with dev
    ```
    
-6. ### Make necessary changes and commit those changes 
+7. ### Make necessary changes and commit those changes 
 
 Add those changes to the branch you just created using the `git add` command:
 
@@ -98,7 +100,7 @@ Now commit those changes using the `git commit` command with a meaningful messag
 git commit -m "Add feature: feature-name" 
 ```
 
-7. ### Push changes to GitHub
+8. ### Push changes to GitHub
 
 Push your changes using the command `git push`:
 
@@ -108,13 +110,13 @@ git push -u origin your-branch-name
 
 replacing `your-branch-name` with the name of the branch you created earlier.
 
-8. ### Submit your changes for review
+9. ### Submit your changes for review
 
 If you go to your repository on GitHub, you'll see a `Compare & pull request` button. Click on that button.
 
 <img style="float: right;" src="https://github.com/RakshitKhajuria/test/assets/71117423/86cb56af-1dad-467e-afc1-f4594615783b" alt="create a pull request" />
 
-9. ### Create a pull request (PR)
+10. ### Create a pull request (PR)
 
 Create a pull request (PR) from your forked repository to the main LangTest repository.
 - Clearly describe the changes you've made and the issue it addresses in the PR description.
