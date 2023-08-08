@@ -85,7 +85,8 @@ If you go to your repository on GitHub, you'll see a `Compare & pull request` bu
 
 <img style="float: right;" src="https://github.com/RakshitKhajuria/test/assets/71117423/86cb56af-1dad-467e-afc1-f4594615783b" alt="create a pull request" />
 
-Before submitting the pull request make sure to add description and type of change you've just added. For pull request template click [here](https://github.com/JohnSnowLabs/langtest/blob/main/PULL_REQUEST_TEMPLATE.md)
+Before submitting the pull request make sure to add description and type of change you've just added. 
+> For pull request template click [here](https://github.com/JohnSnowLabs/langtest/blob/main/PULL_REQUEST_TEMPLATE.md)
 
 <img style="float: right;" src="https://github.com/RakshitKhajuria/test/assets/71117423/5c629508-53a7-4444-b036-15f694df675c" alt="submit pull request" />
 
