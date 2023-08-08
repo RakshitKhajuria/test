@@ -79,11 +79,13 @@ replacing `your-branch-name` with the name of the branch you created earlier.
 
 
 
-## Submit your changes for review
+### Submit your changes for review
 
 If you go to your repository on GitHub, you'll see a `Compare & pull request` button. Click on that button.
 
 <img style="float: right;" src="https://github.com/RakshitKhajuria/test/assets/71117423/86cb56af-1dad-467e-afc1-f4594615783b" alt="create a pull request" />
+
+### Create a pull request (PR)
 
 Create a pull request (PR) from your forked repository to the main LangTest repository.
 - Clearly describe the changes you've made and the issue it addresses in the PR description.
