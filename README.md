@@ -114,4 +114,20 @@ Congrats! You just completed the standard fork -> clone -> edit -> pull request 
 
 Celebrate your contribution and share it with your friends and followers by going to [LinkedIn](www.linkedin.com).
 
-You could join our slack team if you need any help or have any questions. [Join slack team](https://join.slack.com/t/firstcontributors/shared_invite/zt-1n4y7xnk0-DnLVTaN6U9xLU79H5Hi62w).
+You can join our community team if you need any help or have any questions. 
+
+- [Slack](https://www.johnsnowlabs.com/slack-redirect/) For live discussion with the LangTest community, join the `#langtest` channel
+- [GitHub](https://github.com/JohnSnowLabs/langtest/tree/main) For bug reports, feature requests, and contributions
+- [Discussions](https://github.com/JohnSnowLabs/langtest/discussions) To engage with other community members, share ideas, and show off how you use LangTest!
+  
+## Contributors
+
+We would like to acknowledge all contributors of this open-source community project. 
+
+<a href="https://github.com/johnsnowlabs/langtest/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=johnsnowlabs/langtest" />
+</a>
+
+## License
+
+LangTest is released under the [Apache License 2.0](https://github.com/JohnSnowLabs/langtest/blob/main/LICENSE), which guarantees commercial use, modification, distribution, patent use, private use and sets limitations on trademark use, liability and warranty.
