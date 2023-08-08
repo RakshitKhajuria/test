@@ -1,6 +1,6 @@
-# How to Contribute
+# Contributing to LangTest
 
-We welcome contributions from the community to help us achieve our mission of making safe and reliable NLP models a reality. If you're interested in contributing, follow the steps below:
+Thank you for your interest in contributing to LangTest! We value the contributions of our community members and are excited to have you on board. To ensure a smooth and collaborative development process, please follow these guidelines:
 
 ## Step 1: Finding an Issue
 
@@ -105,12 +105,13 @@ Soon we'll be merging all your changes into the main branch of this project. You
 5. Add labels and assignees, if applicable, to help categorize and track the issue.
 
 We're excited to have you on board with us! Together, we can make NLP models safer, more reliable, and fairer for everyone. 
+
 **Happy contributing!** 💫
 
 ## Where to go from here?
 
-Congrats! You just completed the standard _fork -> clone -> edit -> pull request_ workflow that you'll often encounter as a contributor!
+Congrats! You just completed the standard fork -> clone -> edit -> pull request workflow that you'll often encounter as a contributor!
 
-Celebrate your contribution and share it with your friends and followers by going to [web app](https://firstcontributions.github.io/#social-share).
+Celebrate your contribution and share it with your friends and followers by going to [LinkedIn](www.linkedin.com).
 
 You could join our slack team if you need any help or have any questions. [Join slack team](https://join.slack.com/t/firstcontributors/shared_invite/zt-1n4y7xnk0-DnLVTaN6U9xLU79H5Hi62w).
