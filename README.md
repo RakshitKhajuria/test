@@ -2,36 +2,36 @@
 
 Thank you for your interest in contributing to LangTest! We value the contributions of our community members and are excited to have you on board. To ensure a smooth and collaborative development process, please follow these guidelines:
 
-## Step 1: Finding an Issue
+## Finding an Issue
 
 1. **Explore Our Issues:**
 Browse through our list of open issues on the [Issues tab](https://github.com/YourUsername/LangTest/issues). These issues cover a wide range of topics and difficulties. You might find something that aligns with your skills and interests.
 
-**Filter and Search:**
+2. **Filter and Search:**
 Use the provided labels and filters to narrow down the list of issues. You can filter by tags like "beginner-friendly," "bug," "enhancement," etc. Also, utilize the GitHub search bar to look for keywords related to your expertise.
 
-**Read and Understand:**
+3. **Read and Understand:**
 Once you've found an issue that captures your attention, take a moment to thoroughly read and understand it. Make sure you comprehend the problem, the expected solution, and any existing discussion around it.
 
-**Clarify Doubts:**
+4. **Clarify Doubts:**
 If you have any questions or need further clarification, don't hesitate to comment on the issue. Our community is friendly and always willing to help. It's better to seek clarity before diving in.
 
-**Claim the Issue:**
+5. **Claim the Issue:**
 If you feel confident about tackling the issue, leave a comment expressing your intention to work on it. This prevents duplication of efforts and allows us to provide guidance if needed.
 
-**Understand Contribution Guidelines:**
+6. **Understand Contribution Guidelines:**
 Familiarize yourself with our [Contribution Guidelines](https://github.com/JohnSnowLabs/langtest/wiki). This document outlines coding standards, pull request procedures, and other important details.
 
-## Step 2: Contribution Process
+## Contribution Process
 
 <img align="right" width="300" src="https://github.com/RakshitKhajuria/first-contributions/assets/71117423/be22d54d-5b62-4a23-b213-0268ed195021" alt="fork this repository" />
 
-### Fork this repository
+1. ### Fork this repository
 
 Fork this repository by clicking on the fork button on the top of this page.
 This will create a copy of this repository in your account.
 
-### Clone the repository
+2. ### Clone the repository
 
 <img align="right" width="300" src="https://github.com/RakshitKhajuria/test/assets/71117423/b07c7d60-ab80-4b7f-b972-58fcd1f50741" alt="clone this repository" />
 
@@ -55,7 +55,7 @@ git clone https://github.com/username/langtest.git
 
 where `username` is your GitHub username.
 
-### Create a branch
+3. ### Create a branch
 
 Change to the repository directory on your computer (if you are not already there):
 
@@ -69,7 +69,7 @@ Now create a branch using the `git checkout -b` command:
 git checkout -b your-branch-name
 ```
 
-### Install Poetry
+4. ### Install Poetry
 
 Poetry is the package manager used for this project. If you don't have Poetry installed, run the following command:
 
@@ -77,7 +77,7 @@ Poetry is the package manager used for this project. If you don't have Poetry in
    pip install poetry
    ```
 
-### Install Dependencies
+5. ### Install Dependencies
 
 Use Poetry to install the project dependencies:
 
@@ -85,7 +85,7 @@ Use Poetry to install the project dependencies:
    poetry install --with dev
    ```
    
-### Make necessary changes and commit those changes 
+6. ### Make necessary changes and commit those changes 
 
 Add those changes to the branch you just created using the `git add` command:
 
@@ -98,7 +98,7 @@ Now commit those changes using the `git commit` command with a meaningful messag
 git commit -m "Add feature: feature-name" 
 ```
 
-### Push changes to GitHub
+7. ### Push changes to GitHub
 
 Push your changes using the command `git push`:
 
@@ -108,15 +108,13 @@ git push -u origin your-branch-name
 
 replacing `your-branch-name` with the name of the branch you created earlier.
 
-
-
-### Submit your changes for review
+8. ### Submit your changes for review
 
 If you go to your repository on GitHub, you'll see a `Compare & pull request` button. Click on that button.
 
 <img style="float: right;" src="https://github.com/RakshitKhajuria/test/assets/71117423/86cb56af-1dad-467e-afc1-f4594615783b" alt="create a pull request" />
 
-### Create a pull request (PR)
+9. ### Create a pull request (PR)
 
 Create a pull request (PR) from your forked repository to the main LangTest repository.
 - Clearly describe the changes you've made and the issue it addresses in the PR description.
@@ -127,7 +125,7 @@ Create a pull request (PR) from your forked repository to the main LangTest repo
 
 Our team will review your pull request, provide feedback, and work with you to ensure that your contribution meets the project's guidelines and quality standards
 
-## Step 3: Proposing a New Issue
+## Proposing a New Issue
 
 1. If you have an idea for a new feature, improvement, or bug fix, you can propose a new issue.
 2. Go to the [Issue Tracker](https://github.com/JohnSnowLabs/langtest/issues) and click on "New Issue" or just create a new issue from [here](https://github.com/JohnSnowLabs/langtest/issues/new) 
