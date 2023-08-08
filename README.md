@@ -64,7 +64,7 @@ git add .
 Now commit those changes using the `git commit` command:
 
 ```
-git commit -m "Add feature XYZ" 
+git commit -m "Add feature: feature-name" 
 ```
 
 ### Push changes to GitHub
