@@ -30,7 +30,7 @@ git clone "url you just copied"
 
 where "url you just copied" (without the quotation marks) is the url to this repository (your fork of this project). See the previous steps to obtain the url.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="https://github.com/RakshitKhajuria/test/assets/71117423/8eef9f61-283d-4bad-9e7f-8a526e33615e" alt="copy URL to clipboard" />
 
 For example:
 
