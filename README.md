@@ -1,7 +1,7 @@
 [![Release Notes](https://img.shields.io/github/v/release/johnsnowlabs/langtest.svg)](https://github.com/JohnSnowLabs/langtest/releases)
 [![Downloads](https://static.pepy.tech/badge/langtest/month)](https://pepy.tech/project/langtest)
-
 [![CI](https://github.com/JohnSnowLabs/langtest/actions/workflows/build_and_test.yml/badge.svg)](https://github.com/JohnSnowLabs/langtest/actions/workflows/build_and_test.yml)
+[![Open Issues](https://img.shields.io/github/issues-raw/JohnSnowLabs/langtest)](https://github.com/JohnSnowLabs/langtest/issues)
 
 
 
