@@ -2,6 +2,9 @@
     <a href="https://github.com/JohnSnowLabs/langtest/releases">
         <img alt="Release Notes" src="https://img.shields.io/github/v/release/johnsnowlabs/langtest.svg">
     </a>
+    <a href="https://langtest.org/docs/pages/docs/install">
+        <img alt="Documentation" src="https://img.shields.io/website?up_message=online&url=https%3A%2F%2Flangtest.org%2F">
+    </a>
     <a href="https://star-history.com/#JohnSnowLabs/langtest">
         <img alt="GitHub star chart" src="https://img.shields.io/github/stars/JohnSnowLabs/langtest?style=social">
     </a>
