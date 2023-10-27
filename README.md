@@ -37,13 +37,7 @@
     </a>
     <a href="https://github.com/JohnSnowLabs/langtest/pulls">
         <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr-raw/JohnSnowLabs/langtest">
-
-
-![GitHub contributors](https://img.shields.io/github/contributors/JohnSnowLabs/langtest)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/JohnSnowLabs/langtest)
-![GitHub closed issues](https://img.shields.io/github/issues-closed/JohnSnowLabs/langtest)
-![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/JohnSnowLabs/langtest)
-
+    </a>
 </p>
 
 
