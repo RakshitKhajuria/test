@@ -4,7 +4,7 @@
 [![Open Issues](https://img.shields.io/github/issues-raw/JohnSnowLabs/langtest)](https://github.com/JohnSnowLabs/langtest/issues)
 [![CI](https://github.com/JohnSnowLabs/langtest/actions/workflows/build_and_test.yml/badge.svg)](https://github.com/JohnSnowLabs/langtest/actions/workflows/build_and_test.yml)
 ![PyPI - License](https://img.shields.io/pypi/l/langtest)
-
+[![Python](https://img.shields.io/pypi/pyversions/langtest.svg)](https://badge.fury.io/py/langtest)
 
 
 
