@@ -1,11 +1,14 @@
-[![Release Notes](https://img.shields.io/github/v/release/johnsnowlabs/langtest.svg)](https://github.com/JohnSnowLabs/langtest/releases)
-[![GitHub star chart](https://img.shields.io/github/stars/JohnSnowLabs/langtest?style=social)](https://star-history.com/#JohnSnowLabs/langtest)
-[![Downloads](https://static.pepy.tech/badge/langtest/month)](https://pepy.tech/project/langtest)
-[![Open Issues](https://img.shields.io/github/issues-raw/JohnSnowLabs/langtest)](https://github.com/JohnSnowLabs/langtest/issues)
-[![CI](https://github.com/JohnSnowLabs/langtest/actions/workflows/build_and_test.yml/badge.svg)](https://github.com/JohnSnowLabs/langtest/actions/workflows/build_and_test.yml)
-![PyPI - License](https://img.shields.io/pypi/l/langtest)
-[![Python](https://img.shields.io/pypi/pyversions/langtest.svg)](https://badge.fury.io/py/langtest)
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v1.4%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md)
+<div align="center">
+  [![Release Notes](https://img.shields.io/github/v/release/johnsnowlabs/langtest.svg)](https://github.com/JohnSnowLabs/langtest/releases)
+  [![GitHub star chart](https://img.shields.io/github/stars/JohnSnowLabs/langtest?style=social)](https://star-history.com/#JohnSnowLabs/langtest)
+  [![Downloads](https://static.pepy.tech/badge/langtest/month)](https://pepy.tech/project/langtest)
+  [![Open Issues](https://img.shields.io/github/issues-raw/JohnSnowLabs/langtest)](https://github.com/JohnSnowLabs/langtest/issues)
+  [![CI](https://github.com/JohnSnowLabs/langtest/actions/workflows/build_and_test.yml/badge.svg)](https://github.com/JohnSnowLabs/langtest/actions/workflows/build_and_test.yml)
+  ![PyPI - License](https://img.shields.io/pypi/l/langtest)
+  [![Python](https://img.shields.io/pypi/pyversions/langtest.svg)](https://badge.fury.io/py/langtest)
+  [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v1.4%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md)
+</div>
+
 
 
 -------------------------------------------------------------------------
