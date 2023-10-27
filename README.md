@@ -6,8 +6,6 @@
 ![PyPI - License](https://img.shields.io/pypi/l/langtest)
 [![Python](https://img.shields.io/pypi/pyversions/langtest.svg)](https://badge.fury.io/py/langtest)
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v1.4%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md)
-[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/JohnSnowLabs/langtest/badge)](https://securityscorecards.dev/viewer/?uri=github.com/JohnSnowLabs/langtest)
-
 
 
 -------------------------------------------------------------------------
