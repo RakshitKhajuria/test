@@ -20,6 +20,9 @@
     <a href="https://badge.fury.io/py/langtest">
         <img alt="PyPI - License" src="https://img.shields.io/pypi/l/langtest">
     </a>
+    <a href="https://badge.fury.io/py/langtest">
+        <img alt="Python" src="https://img.shields.io/pypi/pyversions/langtest.svg">
+    </a>
     <a href="CODE_OF_CONDUCT.md">
         <img alt="Contributor Covenant" src="https://img.shields.io/badge/Contributor%20Covenant-v1.4%20adopted-ff69b4.svg">
     </a>
