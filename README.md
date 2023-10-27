@@ -1,20 +1,5 @@
-<div align="center">
-  <a href="https://pypi.org/project/langtest/">
-    <img alt="pypi" src="https://upload.wikimedia.org/wikipedia/commons/6/64/PyPI_logo.svg" />
-  </a>
-  <a href="https://github.com/omgovich/colord/actions">
-    <img alt="build" src="https://img.shields.io/github/workflow/status/omgovich/colord/Node.js%20CI/master.svg?labelColor=dd3a5e&color=6ead0a" />
-  </a>
-  <a href="https://codecov.io/gh/omgovich/colord">
-    <img alt="coverage" src="https://img.shields.io/codecov/c/github/omgovich/colord.svg?labelColor=dd3a5e&color=6ead0a" />
-  </a>
-  <a href="https://npmjs.org/package/colord">
-    <img alt="no dependencies" src="https://badgen.net/bundlephobia/dependency-count/colord?labelColor=dd3a5e&color=6ead0a" />
-  </a>
-  <a href="https://npmjs.org/package/colord">
-    <img alt="types included" src="https://badgen.net/npm/types/colord?labelColor=dd3a5e&color=6ead0a" />
-  </a>
-</div>
+[![Release Notes](https://img.shields.io/github/v/release/johnsnowlabs/langtest.svg)](https://github.com/JohnSnowLabs/langtest/releases)
+
 
 
 -------------------------------------------------------------------------
