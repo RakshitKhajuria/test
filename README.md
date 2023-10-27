@@ -26,6 +26,12 @@
     <a href="CODE_OF_CONDUCT.md">
         <img alt="Contributor Covenant" src="https://img.shields.io/badge/Contributor%20Covenant-v1.4%20adopted-ff69b4.svg">
     </a>
+
+![GitHub contributors](https://img.shields.io/github/contributors/JohnSnowLabs/langtest)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/JohnSnowLabs/langtest)
+![GitHub closed issues](https://img.shields.io/github/issues-closed/JohnSnowLabs/langtest)
+![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/JohnSnowLabs/langtest)
+
 </p>
 
 
