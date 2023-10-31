@@ -41,7 +41,9 @@
 </p>
 
 
+<p align="center">
 ![---------------------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+</p>
 
 # Contributing to LangTest
 
