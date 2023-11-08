@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="(https://github.com/RakshitKhajuria/test/assets/71117423/0a68cbf3-7071-4594-8c73-1c688dce345d" alt="johnsnowlabs_logo" width="500" style="text-align:center;">
+  <img src="https://github.com/RakshitKhajuria/test/assets/71117423/0a68cbf3-7071-4594-8c73-1c688dce345d" alt="johnsnowlabs_logo" width="500" style="text-align:center;">
 </p>
 
 <div align="center">
