@@ -1,4 +1,4 @@
-![jsl (1)](https://github.com/RakshitKhajuria/test/assets/71117423/e1cbd357-4e09-4073-a40b-c31914afbacc)
+![johnsnowlabs_logo](https://github.com/RakshitKhajuria/test/assets/71117423/a1787367-64f4-47ec-8f63-05f523ba2f14)
 
 # LangTest: Deliver Safe & Effective Language Models
 
