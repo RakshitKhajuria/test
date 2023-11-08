@@ -1,4 +1,4 @@
-<![jsl-trnasparent](https://github.com/RakshitKhajuria/test/assets/71117423/f1c1b81e-7f27-4035-ad45-a1f4d8a30f91)
+![jsl (1)](https://github.com/RakshitKhajuria/test/assets/71117423/e1cbd357-4e09-4073-a40b-c31914afbacc)
 
 # LangTest: Deliver Safe & Effective Language Models
 
