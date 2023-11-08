@@ -1,4 +1,35 @@
+<![jsl-trnasparent](https://github.com/RakshitKhajuria/test/assets/71117423/f1c1b81e-7f27-4035-ad45-a1f4d8a30f91)
+
+# LangTest: Deliver Safe & Effective Language Models
+
 <p align="center">
+    <a href="https://github.com/JohnSnowLabs/langtest/actions" alt="build">
+        <img src="https://github.com/JohnSnowLabs/langtest/workflows/build/badge.svg" /></a>
+    <a href="https://github.com/JohnSnowLabs/langtest/releases" alt="Current Release Version">
+        <img src="https://img.shields.io/github/v/release/JohnSnowLabs/langtest.svg?style=flat-square&logo=github" /></a>
+    <a href="https://github.com/JohnSnowLabs/langtest/blob/master/LICENSE" alt="License">
+        <img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" /></a>
+    <a href="https://pypi.org/project/langtest/" alt="PyPi downloads">
+        <img src="https://static.pepy.tech/personalized-badge/langtest?period=total&units=international_system&left_color=grey&right_color=green&left_text=Downloads" /></a>
+</p>
+
+
+<p align="center">
+  <a href="#project's-website">Project's Website</a> •
+  <a href="#key-features">Key Features</a> •
+  <a href="#how-to-use">How To Use</a> •
+  <a href="#community-support">Community Support</a> •
+  <a href="#contributing">Contributing</a> •
+  <a href="#mission">Mission</a> •
+  <a href="#license">License</a>
+</p>
+
+![screenshot](https://raw.githubusercontent.com/JohnSnowLabs/langtest/gh-pages/docs/assets/images/langtest/langtest_flow_graphic.jpeg)
+
+## Project's Website
+
+Take a look at our official page for user documentation and examples: [langtest.org](http://langtest.org/) 
+p align="center">
     <a href="https://github.com/JohnSnowLabs/langtest/releases">
         <img alt="Release Notes" src="https://img.shields.io/github/v/release/johnsnowlabs/langtest.svg">
     </a>
