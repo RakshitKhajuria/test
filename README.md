@@ -6,9 +6,6 @@
   <h1 style="text-align: center; vertical-align: middle;">LangTest: Deliver Safe & Effective Language Models</h1>
 </div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" alt="Image" />
-</p>
 
 <p align="center">
     <a href="https://github.com/JohnSnowLabs/langtest/releases">
