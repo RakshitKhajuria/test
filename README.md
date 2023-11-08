@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/RakshitKhajuria/test/assets/71117423/0a68cbf3-7071-4594-8c73-1c688dce345d" alt="johnsnowlabs_logo" width="500" style="text-align:center;">
+  <img src="https://github.com/RakshitKhajuria/test/assets/71117423/4e759227-de04-4ba6-8f41-bf33b948d614" alt="johnsnowlabs_logo" width="500" style="text-align:center;">
 </p>
+
 
 <div align="center">
   <h1 style="text-align: center; vertical-align: middle;">LangTest: Deliver Safe & Effective Language Models</h1>
